@@ -1,6 +1,6 @@
 {
     "name": "Chromium Install",
-    "id": "color",
+    "id": "chromium_apk",
     "version": "1.0.0",
     "description": "Install Chromium on the image. ",
     "options": { },
