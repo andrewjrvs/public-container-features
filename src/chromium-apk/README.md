@@ -1,15 +1,13 @@
 
-# My Favorite Color (color)
+# Install Chromium
 
-A feature to remind you of your favorite color
+install chromium
 
 ## Example Usage
 
 ```json
 "features": {
-    "ghcr.io/devcontainers/feature-starter/color:1": {
-        "version": "latest"
-    }
+    "ghcr.io/andrewjrvs/public-container-features/chromium-apk:1": {}
 }
 ```
 
@@ -17,7 +15,7 @@ A feature to remind you of your favorite color
 
 | Options Id | Description | Type | Default Value |
 |-----|-----|-----|-----|
-| favorite | Choose your favorite color. | string | red |
+
 
 
 

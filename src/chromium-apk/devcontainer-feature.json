@@ -1,0 +1,10 @@
+{
+    "name": "Chromium Install",
+    "id": "color",
+    "version": "1.0.0",
+    "description": "Install Chromium on the image. ",
+    "options": { },
+    "containerEnv": {
+        "CHROME_BIN": "/usr/bin/chromium"
+    }
+}
